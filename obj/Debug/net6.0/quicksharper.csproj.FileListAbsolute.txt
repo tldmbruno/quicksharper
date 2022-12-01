@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\quicksharper\bin\Debug\net6.0\quicksharper.exe
+C:\Users\bruno\Documents\GitHub\quicksharper\bin\Debug\net6.0\quicksharper.deps.json
+C:\Users\bruno\Documents\GitHub\quicksharper\bin\Debug\net6.0\quicksharper.runtimeconfig.json
+C:\Users\bruno\Documents\GitHub\quicksharper\bin\Debug\net6.0\quicksharper.dll
+C:\Users\bruno\Documents\GitHub\quicksharper\bin\Debug\net6.0\quicksharper.pdb
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.dll
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\refint\quicksharper.dll
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.pdb
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\quicksharper.genruntimeconfig.cache
+C:\Users\bruno\Documents\GitHub\quicksharper\obj\Debug\net6.0\ref\quicksharper.dll
