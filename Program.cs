@@ -8,10 +8,9 @@ class Program {
 		Directory.SetCurrentDirectory(userDirectory);
 		
 		// A welcome text is shown
-		Console.WriteLine("Quick Sharper - Creating a new .NET project");
 		Console.WriteLine("-------------------------------------------");
-		Console.WriteLine("     You can cancel by pressing Ctrl+C     ");
-		Console.WriteLine("    For more information, invoke with -h   ");
+		Console.WriteLine("Quick Sharper - Creating a new .NET project");
+		Console.WriteLine("    (You can cancel by pressing Ctrl+C)    ");
 		Console.WriteLine("-------------------------------------------\n");		
 		
 		// Asks the user where the project file should go, defaulting to Documents\GitHub.
