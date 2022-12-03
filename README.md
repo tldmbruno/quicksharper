@@ -1,6 +1,9 @@
 # quicksharper
 CLI helper to quickly create new .NET projects
 
+## Requisites
+- The official dotnet CLI utility.
+
 ## Installation
 - Gitclone the repository
 - Build it (a debug binary can be found in /bin/Debug) with "dotnet build"
