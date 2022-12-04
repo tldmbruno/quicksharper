@@ -17,10 +17,10 @@ class Program {
 		Directory.SetCurrentDirectory(userDirectory);
 		
 		// A welcome text is shown
-		Console.WriteLine("-------------------------------------------");
-		Console.WriteLine("Quick Sharper - Creating a new .NET project");
-		Console.WriteLine("    (You can cancel by pressing Ctrl+C)    ");
-		Console.WriteLine("-------------------------------------------\n");		
+		Console.WriteLine("---------------------------------------------");
+		Console.WriteLine(" Quick Sharper - Creating a new .NET project ");
+		Console.WriteLine("    (You can cancel by pressing Ctrl+C)      ");
+		Console.WriteLine("---------------------------------------------\n");		
 		
 		// Asks the user where the project file should go, defaulting to Documents\GitHub.
 		Console.WriteLine($"Where you want to create the project? (ENTER: {lastPath})");
@@ -60,7 +60,6 @@ class Program {
 		}
 		
 		string projectName = "";
-		
 		while (String.IsNullOrWhiteSpace(projectName)) {
 			// Asks for the projects name
 			Console.WriteLine("What should this project's name be? (ENTER: Project)");
