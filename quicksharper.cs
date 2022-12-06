@@ -63,7 +63,7 @@ class Program {
 		while (String.IsNullOrWhiteSpace(projectName)) {
 			// Asks for the projects name
 			Console.WriteLine("What should this project's name be? (ENTER: Project)");
-			string input = Console.ReadLine() ?? "";
+			projectName = Console.ReadLine() ?? "";
 			
 			// If the user leaves the answer in blank, load the default values.
 			if (String.IsNullOrWhiteSpace(projectName)) {
